@@ -1,2 +1,2 @@
-some file - other text
-added some text
+some file - adding new text
+
